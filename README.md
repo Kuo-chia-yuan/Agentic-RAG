@@ -1,6 +1,6 @@
 # Agentic RAG System with Local LLM
 
-一個基於 **FastAPI** 構建的工業級動態調度 RAG 系統。本專案具備動態 Routing 機制，能自動評估本地知識庫的命中率，並在未命中時自主喚醒網絡 API Agent 進行瀏覽器 Real-Time 檢索，最後交由本地端大語言模型（Ollama Llama3）進行推論，達成 100% 資料去識別化與隱私閉環。
+基於 **FastAPI** 構建動態調度 RAG 系統。本專案具備動態 Routing 機制，能自動評估本地知識庫的命中率，並在未命中時自主喚醒網絡 API Agent 進行瀏覽器 Real-Time 檢索，最後交由本地端大語言模型（Ollama Llama3）進行推論，達成 100% 資料去識別化與隱私閉環。
 
 ---
 
