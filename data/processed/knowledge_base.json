@@ -1,0 +1,17 @@
+[
+    {
+        "source": "presentation.pptx",
+        "chunk_id": "presentation.pptx_chunk_0",
+        "content": "Raydium Performance Metrics: Power consumption is 45 mW at FHD+."
+    },
+    {
+        "source": "specs.pdf",
+        "chunk_id": "specs.pdf_chunk_0",
+        "content": "Raydium AI Display Driver Spec Model: RD-AI-2026 Operating Voltage: 0.8V - 1.2V Interface: MIPI DSI-2 Max Resolution: 3200x1440 @ 90fps Features: Embe"
+    },
+    {
+        "source": "specs.pdf",
+        "chunk_id": "specs.pdf_chunk_1",
+        "content": "00x1440 @ 90fps Features: Embedded hardware super-resolution pipeline."
+    }
+]
